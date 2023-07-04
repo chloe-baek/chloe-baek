@@ -3,7 +3,7 @@
 ## I'm Chloe <img src="https://media.giphy.com/media/s5Dfh2qYFurjT5InoM/giphy.gif" width="30">
 I'm a prospective **front-end developer👩🏻‍💻** from **Korea<img src="https://cdn-icons-png.flaticon.com/512/206/206758.png" width="20">**, presently living in **Canada<img src="https://cdn-icons-png.flaticon.com/512/5975/5975506.png" width="20">**
 
-<img src="https://media.giphy.com/media/IeEeEIPq36SC5TUqbd/giphy.gif" width="20"> I’m currently studying *New Media Production and Design* at SAIT.
+
 
 <br>
 
@@ -32,7 +32,7 @@ I'm a prospective **front-end developer👩🏻‍💻** from **Korea<img src="h
 
 <!--
 **chloe-baek/chloe-baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://media.giphy.com/media/IeEeEIPq36SC5TUqbd/giphy.gif" width="20"> I’m currently studying *New Media Production and Design* at SAIT.
 Here are some ideas to get you started:
 
 - 💁🏻‍♀️ All of my projects are available at [www.jewon-baek.com](www.jewon-baek.com)
