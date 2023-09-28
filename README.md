@@ -1,8 +1,6 @@
-### Hi! Good to see you. <img src="https://media.giphy.com/media/jeZdcWRAd6LvZ1JE4Y/giphy.gif" width="30">
 
-## I'm Chloe <img src="https://media.giphy.com/media/s5Dfh2qYFurjT5InoM/giphy.gif" width="30">
+## I'm Chloe
 I'm a prospective **front-end developer👩🏻‍💻** from **Korea<img src="https://cdn-icons-png.flaticon.com/512/206/206758.png" width="20">**, presently living in **Canada<img src="https://cdn-icons-png.flaticon.com/512/5975/5975506.png" width="20">**
-
 
 
 <br>
@@ -22,7 +20,6 @@ I'm a prospective **front-end developer👩🏻‍💻** from **Korea<img src="h
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 <br>
 
