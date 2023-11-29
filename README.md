@@ -1,5 +1,5 @@
 
-## I am Chloe from Korea<img src="https://cdn-icons-png.flaticon.com/512/206/206758.png" width="20">, currently based in Canada<img src="https://cdn-icons-png.flaticon.com/512/5975/5975506.png" width="20">.
+### I am Chloe from Korea<img src="https://cdn-icons-png.flaticon.com/512/206/206758.png" width="20">, currently based in Canada<img src="https://cdn-icons-png.flaticon.com/512/5975/5975506.png" width="20">.
 Actively contribute to creating **user-friendly** and **visually** engaging websites, grounded in a solid grasp of design principles.  I am committed to **ongoing learning** and consider myself a naturally **curious soul**.
 
 
